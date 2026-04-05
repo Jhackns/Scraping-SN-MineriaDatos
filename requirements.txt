@@ -1,0 +1,7 @@
+flet
+undetected-chromedriver
+webdriver-manager
+pandas
+beautifulsoup4
+requests
+lxml
