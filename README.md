@@ -2,6 +2,8 @@
 
 Automatización profesional para la extracción masiva de datos históricos meteorológicos de las estaciones del SENAMHI (Perú). Esta aplicación utiliza una arquitectura de **scraping de bajo nivel** con `undetected-chromedriver` para navegar el mapa regional, manejar iframes anidados e iterar automáticamente por todos los periodos disponibles desde 1960 hasta la actualidad.
 
+**TAREA-LORETO:** Releases (v1.0.0-Loreto-Dataset) comprimido en .zip → https://github.com/Jhackns/Scraping-SN-MineriaDatos/releases/tag/Loreto-dataset
+
 ## 🛠️ Requisitos Previos
 
 Antes de comenzar, asegúrate de tener instalado:
