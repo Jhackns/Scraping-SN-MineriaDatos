@@ -4,10 +4,13 @@ Automatización de grado ingeniería para la extracción masiva de datos histór
 
 ##Releases
 ### Dataset comprimidos (dataset 4 regiones Senamhi) en .zip: 
-Amazonas: https://github.com/Jhackns/Scraping-SN-MineriaDatos/releases/tag/Dataset
-Ucayali: https://github.com/Jhackns/Scraping-SN-MineriaDatos/releases/tag/ucayaly-dataset
-Madre de Dios: https://github.com/Jhackns/Scraping-SN-MineriaDatos/releases/tag/madre-de-dios-dataset
-Loreto: https://github.com/Jhackns/Scraping-SN-MineriaDatos/releases/tag/Loreto-dataset
+1. Amazonas: https://github.com/Jhackns/Scraping-SN-MineriaDatos/releases/tag/Dataset
+
+2. Ucayali: https://github.com/Jhackns/Scraping-SN-MineriaDatos/releases/tag/ucayaly-dataset
+
+3. Madre de Dios: https://github.com/Jhackns/Scraping-SN-MineriaDatos/releases/tag/madre-de-dios-dataset
+
+4. Loreto: https://github.com/Jhackns/Scraping-SN-MineriaDatos/releases/tag/Loreto-dataset
 
 ## 🛠️ Requisitos Previos
 
