@@ -2,7 +2,7 @@
 
 Automatización de grado ingeniería para la extracción masiva de datos históricos meteorológicos del SENAMHI (Perú). Esta versión utiliza una arquitectura avanzada de **Volcado de Memoria Leaflet** y **Navegación Directa por Endpoint**, reduciendo los tiempos de extracción de horas a minutos.
 
-##Releases
+## Releases
 ### Dataset comprimidos (dataset 4 regiones Senamhi) en .zip: 
 1. Amazonas: https://github.com/Jhackns/Scraping-SN-MineriaDatos/releases/tag/Dataset
 
