@@ -2,6 +2,13 @@
 
 Automatización de grado ingeniería para la extracción masiva de datos históricos meteorológicos del SENAMHI (Perú). Esta versión utiliza una arquitectura avanzada de **Volcado de Memoria Leaflet** y **Navegación Directa por Endpoint**, reduciendo los tiempos de extracción de horas a minutos.
 
+##Releases
+### Dataset comprimidos (dataset 4 regiones Senamhi) en .zip: 
+Amazonas: https://github.com/Jhackns/Scraping-SN-MineriaDatos/releases/tag/Dataset
+Ucayali: https://github.com/Jhackns/Scraping-SN-MineriaDatos/releases/tag/ucayaly-dataset
+Madre de Dios: https://github.com/Jhackns/Scraping-SN-MineriaDatos/releases/tag/madre-de-dios-dataset
+Loreto: https://github.com/Jhackns/Scraping-SN-MineriaDatos/releases/tag/Loreto-dataset
+
 ## 🛠️ Requisitos Previos
 
 *   **Python 3.10+**
