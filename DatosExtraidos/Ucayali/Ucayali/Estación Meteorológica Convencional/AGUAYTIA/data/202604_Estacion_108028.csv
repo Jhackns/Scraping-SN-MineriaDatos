@@ -1,0 +1,14 @@
+﻿Fuente: SENAMHI / DRD * Datos sin control de calidad. * El uso de estos datos será de entera responsabilidad del usuario.,Leyenda: * S/D = Sin Datos. * T = Trazas (Precipitación < 0.1 mm/día).
+Estación : AGUAYTIA
+Departamento :,UCAYALI,Provincia :,PADRE ABAD,Distrito :,PADRE ABAD
+Latitud :,9°2'32.11'',Longitud :,75°30'22.46'',Altitud :,316 msnm.
+Tipo :,CO - Meteorológica,Código :,108028
+AÑO / MES / DÍA,TEMPERATURA (°C),HUMEDAD RELATIVA (%),PRECIPITACIÓN (mm/día)
+MAX,MIN,TOTAL
+2026-04-01,33.2,22.5,89.0,0.0
+2026-04-02,26.5,23.6,94.2,3.2
+2026-04-03,33.5,21,85.2,0.0
+2026-04-04,34,22,86.9,4.6
+2026-04-05,25.5,21.8,96.7,10.3
+2026-04-06,32,20,90.6,0.0
+2026-04-07,30,22,88.9,0.0

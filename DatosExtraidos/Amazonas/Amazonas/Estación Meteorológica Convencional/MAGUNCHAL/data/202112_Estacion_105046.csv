@@ -1,0 +1,10 @@
+﻿Fuente: SENAMHI / DRD * Datos sin control de calidad. * El uso de estos datos será de entera responsabilidad del usuario.,Leyenda: * S/D = Sin Datos. * T = Trazas (Precipitación < 0.1 mm/día).
+Estación : MAGUNCHAL
+Departamento :,AMAZONAS,Provincia :,UTCUBAMBA,Distrito :,JAMALCA
+Latitud :,5°53'25.36'',Longitud :,78°11'20.83'',Altitud :,632 msnm.
+Tipo :,PLU - Meteorológica,Código :,105046
+AÑO / MES / DÍA,TEMPERATURA (°C),HUMEDAD RELATIVA (%),PRECIPITACIÓN (mm/día)
+MAX,MIN,TOTAL
+2021-12-01,,,,0.0
+2021-12-02,,,,S/D
+2022-01-01,,,,S/D

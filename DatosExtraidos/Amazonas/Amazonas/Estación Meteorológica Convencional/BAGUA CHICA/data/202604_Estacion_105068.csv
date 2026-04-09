@@ -1,0 +1,14 @@
+﻿Fuente: SENAMHI / DRD * Datos sin control de calidad. * El uso de estos datos será de entera responsabilidad del usuario.,Leyenda: * S/D = Sin Datos. * T = Trazas (Precipitación < 0.1 mm/día).
+Estación : BAGUA CHICA
+Departamento :,AMAZONAS,Provincia :,UTCUBAMBA,Distrito :,BAGUA GRANDE
+Latitud :,5°39'41.34'',Longitud :,78°32'2.25'',Altitud :,397 msnm.
+Tipo :,CP - Meteorológica,Código :,105068
+AÑO / MES / DÍA,TEMPERATURA (°C),HUMEDAD RELATIVA (%),PRECIPITACIÓN (mm/día)
+MAX,MIN,TOTAL
+2026-04-01,36.8,23.6,69.4,0.0
+2026-04-02,33.2,23.4,74.8,0.0
+2026-04-03,34.2,23.2,68.7,0.0
+2026-04-04,34,23.8,68.4,0.0
+2026-04-05,34.4,23,70.6,0.0
+2026-04-06,34,24.2,65.4,0.0
+2026-04-07,35.6,24.6,67.0,0.0
